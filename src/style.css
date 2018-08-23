@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    src: url('./my-font.woff2') format('woff2'), url('./my-font.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+.hello {
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: url('./icon.png')
+}
